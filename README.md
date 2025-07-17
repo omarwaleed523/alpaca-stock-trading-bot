@@ -62,9 +62,7 @@ python trading_chatbot.py
 - Never commit your `.env` file with API keys to version control
 - This project uses the `.gitignore` file to prevent sensitive information from being shared
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Disclaimer
 
